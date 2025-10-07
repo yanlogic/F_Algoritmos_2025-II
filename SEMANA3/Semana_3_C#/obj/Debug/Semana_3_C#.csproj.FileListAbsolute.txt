@@ -1,0 +1,7 @@
+C:\Users\yannw\Downloads\Pedo caca pis\Git2025\F_Algoritmos_2025-II\SEMANA3\Semana_3_C#\bin\Debug\Semana_3_C#.exe.config
+C:\Users\yannw\Downloads\Pedo caca pis\Git2025\F_Algoritmos_2025-II\SEMANA3\Semana_3_C#\bin\Debug\Semana_3_C#.exe
+C:\Users\yannw\Downloads\Pedo caca pis\Git2025\F_Algoritmos_2025-II\SEMANA3\Semana_3_C#\bin\Debug\Semana_3_C#.pdb
+C:\Users\yannw\Downloads\Pedo caca pis\Git2025\F_Algoritmos_2025-II\SEMANA3\Semana_3_C#\obj\Debug\Semana_3_C#.csproj.AssemblyReference.cache
+C:\Users\yannw\Downloads\Pedo caca pis\Git2025\F_Algoritmos_2025-II\SEMANA3\Semana_3_C#\obj\Debug\Semana_3_C#.csproj.CoreCompileInputs.cache
+C:\Users\yannw\Downloads\Pedo caca pis\Git2025\F_Algoritmos_2025-II\SEMANA3\Semana_3_C#\obj\Debug\Semana_3_C#.exe
+C:\Users\yannw\Downloads\Pedo caca pis\Git2025\F_Algoritmos_2025-II\SEMANA3\Semana_3_C#\obj\Debug\Semana_3_C#.pdb
